@@ -1,0 +1,5 @@
+{
+  "name": "Kids Story Generator",
+  "description": "A fun app that uses AI to generate short, creative stories for children. Just enter a category like 'Animals' or 'Magic' and get a unique story with a happy ending and a moral.",
+  "requestFramePermissions": []
+}
